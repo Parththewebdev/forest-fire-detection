@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+opencv-python-headless
+earthengine-api
+geemap
+pandas
+folium
+streamlit-folium
